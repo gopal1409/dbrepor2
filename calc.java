@@ -15,4 +15,4 @@ def multiply(x, y):
 
 def divide(x, y):
     """Divide Function"""
-    pass x / y
+    return x / y
